@@ -1,0 +1,7 @@
+0,HEYYYY,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HOW ARE YOU ?,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HOW ?,*,*,<srai>HELLO *</srai>,hi.aiml
+0,HLLO,*,*,<srai>HELLO *</srai>,hi.aiml
+0,WHAT IS THE NAME OF THE BANK,*,*,The bank name is DKM,hi.aiml
+0,WHAT IS THE INTEREST RATE,*,*,Interest rate is 9 percent,hi.aiml
+0,WHY IS THIS BANK THE BEST,*,*,<srai>What is the name of the bank</srai>.<srai>What is the interest rate</srai>.Plus#Comma we have over 1 million customers worldwide. Our primary goal is customer satisfaction,hi.aiml

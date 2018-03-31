@@ -1,0 +1,43 @@
+0,WHAT IS HUMOUR,*,*,A message that communicate laughter.<think> 				<set name="it"> 					<set name="topic">HUMOUR</set> 				</set> 			</think>,humor.aiml
+0,WHAT,* MUSIC AND AN ASSISTANT,*,bandaide.,humor.aiml
+0,WHAT,* MUSIC AND AN AUTOMOBILE,*,cartune.,humor.aiml
+0,WHAT,* A POPPY AND ELECTRICITY,*,flower power.,humor.aiml
+0,WHAT,* A PIG AND A NINJA,*,pork chops.,humor.aiml
+0,WHAT,* A CHEETAH AND A HAMBURGER,*,fast food.,humor.aiml
+0,WHAT,* A MURDERER AND FROSTED FLAKES,*,cereal killer.,humor.aiml
+0,WHAT,* A CRAZY COW AND A BANNED PARROT,*,canned carrot.,humor.aiml
+0,WHAT,* A PORT AND A MURDERER,*,serial killer.,humor.aiml
+0,WHAT,* A PORT AND FROSTED FLAKES,*,I don't know#Comma but it's serial.,humor.aiml
+0,WHAT,* A DOG AND SANDPAPER,*,I don't know#Comma but it's ruff.,humor.aiml
+0,WHAT,* A COW AND A LEMON,*,sour milk.,humor.aiml
+0,WHAT,* A COUNTRY AND AN AUTOMOBILE,*,carnation.,humor.aiml
+0,WHAT,* A TOAD AND A GALAXY,*,star warts.,humor.aiml
+0,WHAT,* A DING AND MILK,*,cow bell.,humor.aiml
+0,WHAT,* A CAT AND A PURPLE PERSON,*,purrr-ple purrr-son.,humor.aiml
+0,WHAT,* A CAT AND A TUNE,*,mew-sic.,humor.aiml
+0,WHAT,* A CAT AND A LEMON,*,sour puss.,humor.aiml
+0,WHAT,* A CAT AND A KILLER,*,mew-rderer.,humor.aiml
+0,WHAT,* A CAT AND A BAND,*,mew-sic.,humor.aiml
+0,WHAT,* A BUG AND A RELATIVE,*,ant.,humor.aiml
+0,WHAT,* A SERIOUS THIEF AND A CRAZY RABBIT,*,hopping mad grave robber.,humor.aiml
+0,WHAT,* A SERIOUS THIEF AND A MAD YOUNG MAN,*,boycrazy grave robber.,humor.aiml
+0,WHAT,* A ROAD AND JELLY,*,traffic jam.,humor.aiml
+0,WHAT,* A ROAD AND A STRAWBERRY,*,traffic jam.,humor.aiml
+0,WHAT,* A RABBIT AND A LAWN SPRINKLER,*,hare spray.,humor.aiml
+0,WHAT,* A BAD COW AND A CANNED HAT,*,banned cat.,humor.aiml
+0,WHAT,* A BAD BUG AND CANNED SAND,*,banned band.,humor.aiml
+0,WHAT,* A DANCE AND A CHEETAH,*,fastball.,humor.aiml
+0,WHAT,* A DANCE AND A LEMON,*,sour balls.,humor.aiml
+0,WHAT,* A BANK AND A SKUNK,*,dollars and scents.,humor.aiml
+0,WHAT,* JAM AND A TROUT,*,jellyfish.,humor.aiml
+0,WHAT,* AN ALIEN AND A CHICKEN,*,eggs-traterrestrial.,humor.aiml
+0,WHAT,* AN ANT AND A RABBIT,*,bugs bunny.,humor.aiml
+0,WHAT,* AN EXCITED ALIEN AND A CHICKEN,*,eggs-cited eggs-traterrestrial.,humor.aiml
+0,WHAT,* SOUR MUSIC AND AN ASSISTANT,*,bandaide and lemonaide.,humor.aiml
+0,WHAT,* FINALS AND A CHICKEN,*,eggs-ams.,humor.aiml
+0,DO YOU HAVE A SENSE OF HUMOR,*,*,Sure I like to laugh as much as the next <bot name="genus"/>.,humor.aiml
+0,DO YOU HAVE A SENSE OF HUMOUR,*,*,<srai>TELL ME A JOKE</srai>,humor.aiml
+0,DO YOU HAVE HUMOR,*,*,<srai>DO YOU HAVE A SENSE OF HUMOR</srai>,humor.aiml
+0,YOUR HOUSE IS *,*,*,Is that a joke or a punch line?,humor.aiml
+0,_ WALKS INTO A BAR,*,*,Is that the punch line?,humor.aiml
+0,_ WALKS INTO A BAR *,*,*,Is that the punch line?,humor.aiml
