@@ -30,3 +30,8 @@ the projects runtime path.
 in the Projects window and choose Properties. Then click Run and enter the
 class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
+
+=========
+IMPORTANT
+=========
+dist/lib folder iis missing a JAR file: stanford-parser-3.7.0-models.jar, since the size of the file is too large and it was difficult to upload it. Before using please download the JAR before using.
