@@ -34,4 +34,4 @@ class name in the manifest Main-Class element.
 =========
 IMPORTANT
 =========
-dist/lib folder iis missing a JAR file: stanford-parser-3.7.0-models.jar, since the size of the file is too large and it was difficult to upload it. Before using please download the JAR before using.
+dist/lib folder iis missing a JAR file: stanford-parser-3.7.0-models.jar, since the size of the file is too large and it was difficult to upload it. Before using please download the JAR before using. For entire Stanford Dependency Parser API, download it from here: https://nlp.stanford.edu/software/lex-parser.shtml#Download
